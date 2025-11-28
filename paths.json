@@ -6,7 +6,6 @@
     
   ],
   "includes": [
-    "/content/eds-site/",
-    "/content/dam/eds-site/"
+    "/content/eds-site/"
   ]
 }
