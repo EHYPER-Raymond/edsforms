@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+  url: https://author-p33952-e1851285.adobeaemcloud.com/bin/franklin.delivery/EHYPER-Raymond/edsforms/main
+  type: "markup"
+  suffix: ".md.html"
+
+
